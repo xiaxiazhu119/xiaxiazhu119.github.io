@@ -1,1 +1,0 @@
-import{d as e,u as s,g as t,c as a,o,_ as n}from"./index.d44e5f4f.js";const _=e({__name:"PassportSignOutView",setup(r){return s().clearHistory(),t().push("/passport/sign-in"),(c,p)=>(o(),a("h1",null," Sign Out... "))}});const u=n(_,[["__scopeId","data-v-9a54a9dc"]]);export{u as default};
