@@ -1,0 +1,1 @@
+import{d as t,c as s,a as o,w as r,r as n,o as a,f as c,_}from"./index.010501bd.js";const d=t({}),l={class:"test-url-container"};function i(p,u,f,m,x,h){const e=n("router-link");return a(),s("div",l,[o(e,{to:"/fms/dashboard"},{default:r(()=>[c("dashboard")]),_:1})])}const $=_(d,[["render",i]]);export{$ as default};

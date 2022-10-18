@@ -1,0 +1,1 @@
+import{d as e,A as s,o as t,c as i,b as a,_ as c}from"./index.010501bd.js";const n=e({extends:s,mounted(){}}),o={class:"fms-statistics-receivable-individual-container"},d=a("h1",null," fms-statistics-receivable-individual ",-1),_=[d];function r(l,p,u,m,v,f){return t(),i("div",o,_)}const h=c(n,[["render",r]]);export{h as default};
