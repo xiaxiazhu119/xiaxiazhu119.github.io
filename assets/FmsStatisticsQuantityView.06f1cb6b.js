@@ -1,1 +1,0 @@
-import{d as t,A as s,o as e,c as n,b as a,_ as o}from"./index.b0c6473e.js";const c=t({extends:s,mounted(){}}),i={class:"fms-statistics-quantity-container"},_=a("h1",null," fms-statistics-quantity ",-1),r=[_];function d(p,u,m,f,l,y){return e(),n("div",i,r)}const x=o(c,[["render",d]]);export{x as default};
